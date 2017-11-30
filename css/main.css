@@ -6,9 +6,9 @@
     
     /* Add a gray background color and some padding to the footer */
     footer {
-      background-color: #555;
+      background-color: #000000;
       padding: 25px;
-	  color: white;
+	  color: black;
     }
     
     /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
@@ -29,3 +29,4 @@
       }
       .row.content {height:auto;} 
     }
+
